@@ -2,6 +2,8 @@
 
 ## About
 
+Hey there! This page is a work in progress, please bear with me.
+
 <!--
 **gitatmax/gitatmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
