@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ## Testimonials
 
-> Maxwell has been invaluable in helping bring our web presence to life! On top of being excellent at navigating the inner workings of our Wordpress site, I really appreciate how proactive he is in identifying opportunities to help our site be better, how swiftly he works, and what a great communicator he is. We benefit from his innovation mindset! I had such a great experience working with Max that I've asked him to help me with my personal site as well."
+> Maxwell has been invaluable in helping bring our web presence to life! On top of being excellent at navigating the inner workings of our Wordpress site, I really appreciate how proactive he is in identifying opportunities to help our site be better, how swiftly he works, and what a great communicator he is. We benefit from his innovation mindset! I had such a great experience working with Max that I've asked him to help me with my personal site as well.
 
 — Fiona Teng, Director of Marketing and Storytelling, Civic Hall
