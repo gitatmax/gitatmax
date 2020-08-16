@@ -1,6 +1,6 @@
 # Maxwell White
 
-_Hey there! This page is a work in progress, please bear with me._
+`_Hey there! This page is a work in progress, please bear with me._`
 
 Hi, I’m Maxwell Jordan White. I work with folks to conquer the technical hurdles that hinder their work from being the best that it can be.
 
