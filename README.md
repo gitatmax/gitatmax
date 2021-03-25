@@ -1,1 +1,1 @@
-**Hey there! Want to learn more about me? Please [visit my website](https://maxs.link/)**. 🙌
+# 👋 Hey there! My name's Maxwell White. Explore my code-age here or learn more about me on my [website](https://maxs.link/)!
