@@ -1,3 +1,3 @@
 👋 Hi there,
 
-Explore some of my work here, or learn more over on my website, [maxs.link](https://maxs.link/)!
+Please feel free to explore my work here or, maybe more interestingly, on my website at [maxs.link](https://maxs.link/)!
