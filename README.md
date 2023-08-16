@@ -1,3 +1,3 @@
-👋 Hi there,
+# 👋 Hi there,
 
-Please feel free to explore my work here or, maybe more interestingly, on my website at [maxs.link](https://maxs.link/)!
+I don't post everything I'm working on here. For my two cents on all sorts of tech, photos of what I'm tinkering on, and more, check out my site [maxs.link](https://maxs.link/)!
