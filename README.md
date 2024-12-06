@@ -1,3 +1,3 @@
-# 👋 Hi there,
+# 👋 Hey there!
 
-I don't post everything I'm working on here. For my two cents on all sorts of tech, photos of what I'm tinkering on, and more, check out my site [maxs.link](https://maxs.link/)!
+I’m not sharing everything I’m building here, but there’s plenty more where this came from! 🚀 For my takes on tech, snapshots of my latest projects, and a mix of tinkering and creativity, swing by [maxs.link](https://maxs.link/).
